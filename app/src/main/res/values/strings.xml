@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">媳妇儿专用</string>
+    <string name="desc">媳妇儿红包专用</string>
+    <string name="mm_money">[微信红包]</string>
+    <string name="mm_getMoney">领取红包</string>
+    <string name="mm_launcherUI">com.tencent.mm.ui.LauncherUI</string>
+    <string name="mm_moneyReceiveUI">com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyReceiveUI</string>
+    <string name="mm_MoneyLook">查看红包</string>
+
+</resources>
